@@ -157,9 +157,9 @@ After completing this repository, learners will have a strong understanding of P
 
 # 👨‍🎓 Student Information
 
-**Name:** Fatima
+**Name:** Ali Raza 
 
-**Roll Number:** 11
+**Roll Number:** 09
 
 **Section:** Morning
 
